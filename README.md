@@ -15,9 +15,8 @@ index.html   página inteira (estilos e scripts embutidos no próprio arquivo)
 - [ ] Trocar os botões "Quero o plano Básico" e "Quero o plano Premium" (seção
       `#oferta`, hoje apontam para `#`) pelos links reais de cada checkout
       (Hotmart, Kiwify, Eduzz, Stripe Payment Link, etc.) — um link por plano.
-- [ ] Trocar o `.brand-mark` (emoji 🧸 no header e no rodapé) pela sua logo
-      real assim que estiver pronta, ex: `<img src="logo.png" alt="Garra
-      D'Ouro">` no lugar do `<span class="brand-mark">`.
+- [x] Logo real aplicada: `logo-horizontal.png` no header/rodapé (classe
+      `.brand-logo`) e `logo.png` (versão circular) como favicon.
 - [ ] Substituir o vídeo principal do hero (`.phone-frame`, logo abaixo da
       headline) e os 3 vídeos da seção "Veja o método na prática"
       (`.video-card`) pelos vídeos reais do expert — troque o `div
